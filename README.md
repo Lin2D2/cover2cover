@@ -1,5 +1,7 @@
 # cover2cover
 
+## [Maintained on Gitlab](https://gitlab.com/cover-rest/cover2cover)
+
 A script for converting JaCoCo XML coverage reports into Cobertura XML coverage
 reports.
 
