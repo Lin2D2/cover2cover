@@ -1,6 +1,11 @@
 # cover2cover
 
 ## [Maintained on Gitlab](https://gitlab.com/cover-rest/cover2cover)
+Changes:
+- python 3 compatible
+- added missing line and branch counts
+- added to function to call from python
+- added package fix from mourezwell
 
 A script for converting JaCoCo XML coverage reports into Cobertura XML coverage
 reports.
